@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @f1fo
+- 👀 I’m interested in CS
+- 🌱 I’m currently learning CS
